@@ -1,0 +1,16 @@
+﻿@model IEnumerable<MVCWebApplication.Models.Employee>
+
+@{
+    ViewBag.Title = "Hyper Links Demo";
+}
+
+<h2>Hyper Links Demo</h2>
+
+<ul>
+    @foreach (MVCWebApplication.Models.Employee employee in Model)
+    {
+        <li>
+            @Html.ActionLink(employee.Name, "EmployeeDetails", new { id = employee.Id })
+        </li>
+    }
+</ul>

@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MVCWebApplication.Models.Student>
+
+@{
+    ViewBag.Title = "List Of Students";
+}
+
+<h2>List Of Students</h2>
+
+<ul>
+    @foreach (MVCWebApplication.Models.Student student in Model)
+    {
+        <li>
+            @Html.ActionLink(student.Name, "Details", new { id = student.Id })
+        </li>
+    }
+</ul>
+
+@Html.ActionLink("Back To Department List", "Index", "Department")

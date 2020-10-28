@@ -1,0 +1,12 @@
+D:\Programs\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.exe
+D:\Programs\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.deps.json
+D:\Programs\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.runtimeconfig.json
+D:\Programs\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.runtimeconfig.dev.json
+D:\Programs\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.dll
+D:\Programs\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.pdb
+D:\Programs\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.AssemblyInfoInputs.cache
+D:\Programs\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.AssemblyInfo.cs
+D:\Programs\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+D:\Programs\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.dll
+D:\Programs\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.pdb
+D:\Programs\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.genruntimeconfig.cache

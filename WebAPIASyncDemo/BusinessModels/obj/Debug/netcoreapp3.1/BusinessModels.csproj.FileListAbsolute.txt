@@ -1,0 +1,8 @@
+D:\Programs\WebAPIASyncDemo\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.deps.json
+D:\Programs\WebAPIASyncDemo\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.dll
+D:\Programs\WebAPIASyncDemo\BusinessModels\bin\Debug\netcoreapp3.1\BusinessModels.pdb
+D:\Programs\WebAPIASyncDemo\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfoInputs.cache
+D:\Programs\WebAPIASyncDemo\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.AssemblyInfo.cs
+D:\Programs\WebAPIASyncDemo\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.csproj.CoreCompileInputs.cache
+D:\Programs\WebAPIASyncDemo\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.dll
+D:\Programs\WebAPIASyncDemo\BusinessModels\obj\Debug\netcoreapp3.1\BusinessModels.pdb
