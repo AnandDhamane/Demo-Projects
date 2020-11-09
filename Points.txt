@@ -1,0 +1,66 @@
+--Technology Stack--
+1.	.Net Core
+2.	GraphQL
+3.	DynamoDB (AWS CLI. Always use Git Bash Command Prompt to execute the commands.)
+4.	Docker
+5.	Microservices
+6.	TDD (xUnit)
+7.	Web API
+8.	C#
+9.	CI/CD/Jenkins
+10.	AWS
+11.	Cassandra/Postgres
+
+
+Swagger (API documentation)
+JWT (JSON Web Tokens for Authorization)
+Ocelot (For API gateway)
+
+AWS Lambda
+Elastic search
+Code refactoring
+gRPC
+Clean Architecture
+Microservices intercommunication
+Dependency injection
+
+794px3c9xc
+
+Fluent Assertions (Package for unit testing)
+
+Middleware (.Net Core)
+
+
+--------------------------
+
+Remove Duplication
+Improve Naming
+Break Up Large Code Elements (An Element should have a single responsibility or should focus on a single task)
+Reduce Coupling
+Reduce Complexity
+Split Responsibility among classes or methods
+
+--------------------------
+
+--REST--
+https://martinfowler.com/articles/richardsonMaturityModel.html
+https://rapidapi.com/blog/api-vs-web-service/
+https://ocelot.readthedocs.io/en/latest/index.html
+--REST--
+
+--Microservices--
+https://dotnet.microsoft.com/learn/aspnet/microservice-tutorial/create
+https://www.codeproject.com/Articles/1276639/Microservice-using-ASP-NET-Core
+https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture
+--Microservices--
+
+--AWS--
+https://www.dynamodbguide.com/environment-setup/
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.CoreComponents.html
+https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html
+--AWS--
+
+https://cxloyalty.service-now.com/nav_to.do?uri=%2Fhome.do
+
+--
+https://www.pluralsight.com/paths/c-coding-practices
